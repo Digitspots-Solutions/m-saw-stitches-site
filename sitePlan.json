@@ -1,0 +1,42 @@
+{
+  "businessName": "M Saw Stitches",
+  "industry": "Fashion and Creative Design",
+  "tone": "creative and professional",
+  "tagline": "Where Style Meets Craftsmanship",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to M Saw Stitches - your premier destination for bespoke fashion and creative designs in Ojo, Lagos. We transform fabric into masterpieces, bringing your unique style vision to life with precision and artistry.",
+      "imagePrompt": "Professional fashion design studio in Lagos Nigeria, modern tailoring workspace with colorful African fabrics draped elegantly, natural lighting through large windows, sewing machines and design sketches visible, warm and inviting atmosphere, photorealistic, high quality",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "At M Saw Stitches, we are passionate about creating stunning, custom-tailored garments that reflect your personality and celebrate African elegance. Located in the heart of Ijanikin, Ojo, our fashion house combines traditional craftsmanship with contemporary design trends. Whether you need everyday wear, corporate attire, or special occasion outfits, our skilled team delivers exceptional quality with attention to every detail. We pride ourselves on understanding each client's unique style preferences and delivering pieces that exceed expectations.",
+      "imagePrompt": "Nigerian fashion designer measuring fabric on mannequin in bright studio, rolls of vibrant African prints and solid fabrics in background, professional measuring tape and scissors on work table, modern African interior design elements, natural daylight, photorealistic",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Custom Tailoring & Alterations - Expert fitting and alterations for all garment types, ensuring perfect fit every time.\n\nBespoke Fashion Design - Unique, made-to-measure outfits crafted to your exact specifications and style preferences.\n\nCorporate & Casual Wear - Professional attire for the workplace and comfortable everyday fashion pieces.\n\nSpecial Occasion Outfits - Stunning designs for weddings, parties, and milestone celebrations.\n\nTraditional & Contemporary Styles - Beautiful fusion of Nigerian traditional wear with modern fashion trends.\n\nFabric Consultation - Expert guidance on fabric selection, colors, and design options for your project.",
+      "imagePrompt": "Elegant display of diverse Nigerian fashion pieces on mannequins, mix of traditional aso-ebi, contemporary dresses, corporate blazers, and casual wear, professional boutique setting with good lighting, colorful fabrics showcasing craftsmanship, Lagos fashion scene aesthetic, photorealistic",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to create your perfect outfit? Visit our studio or reach out to discuss your fashion needs. We're here to bring your style vision to life.\n\nLocation: 10, Idomo Compound, Moshalashi Bus Stop, Ijanikin, Ojo, Lagos, Nigeria\n\nCall or WhatsApp: +234 905 356 7991\n\nOpening Hours: Monday - Saturday, 9:00 AM - 6:00 PM\n\nWe welcome walk-ins, but appointments are recommended to ensure dedicated consultation time. Let's create something beautiful together!",
+      "imagePrompt": "Welcoming Nigerian fashion studio entrance with open door, visible interior showing organized fabric shelves and consultation area, Ijanikin Lagos neighborhood context, professional signage, inviting atmosphere with natural light, photorealistic street view",
+      "layout": "default"
+    }
+  ],
+  "contact": {
+    "phone": "+234 905 356 7991",
+    "email": "",
+    "address": "10, Idomo Compound, Moshalashi Bus Stop, Ijanikin, Ojo, Lagos, Nigeria",
+    "whatsapp": "https://wa.me/2349053567991"
+  }
+}
